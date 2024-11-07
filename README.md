@@ -1,16 +1,16 @@
-## Hi there! 👋 I'm Rased Sikder
+## Hi there! 👋 I'm Md. Bashir Ahmed 
 
 ### 🧪 Software QA Engineer | 🚀 Passionate about Quality Assurance & Test Automation
 
-With over 2.5 years of experience in Software Quality Assurance, I specialize in automated testing, test case design, and agile methodologies. I excel at identifying critical issues early in the development process, resulting in higher-quality software and reduced time to market.
+With over 3 years of experience in Software Quality Assurance, I specialize in automated testing, test case design, and agile methodologies. I excel at identifying critical issues early in the development process, resulting in higher-quality software and reduced time to market.
 
 ---
 
 ### 🔍 About Me
 
-- 🏢 **Current Role**: SQA Engineer Lead at [KloverCloud](https://www.klovercloud.com/)
+- 🏢 **Current Role**: SQA Engineer at [Staff Asia Limited](https://www.staffasia.org/)
 - 🎓 **Education**: Bachelor's in Computer Science from [BSMRSTU](https://www.bsmrstu.edu.bd/s/)
-- 💼 **Experience**: 2.5 years in Software Quality Assurance, Test Automation, and Manual Testing
+- 💼 **Experience**: 3 years in Software Quality Assurance, Test Automation, and Manual Testing
 - 🌐 **Location**: Dhaka, Bangladesh
 
 ---
@@ -55,66 +55,35 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 #### Project Management & Collaboration: 
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
-![Xmind](https://img.shields.io/badge/-Xmind-F06000?style=flat&logo=xmind&logoColor=white)
+
 
 ---
 ### 💼 Professional Experience
 
 ### Software QA Engineer
-**KloverCloud | April 2022 to Present**
-- Developed automated test scripts using Selenium and JUnit, reducing manual testing efforts by 60%.
-- Implemented a continuous integration process, leading to a 30% reduction in deployment errors.
-- Conducted performance testing and identified key bottlenecks, improving application response time by 40%.
-- Collaborated with the development team to ensure seamless integration of new features, enhancing overall product quality.
-- Provided training and mentorship to junior QA engineers, fostering a culture of continuous improvement and knowledge sharing.
+**Staff Asia Limited | Sep 2022 to Present**
+✓ Review and analyze requirements, specifications Providing timely feedback.
+✓ Develop detailed, well-structured Test plan, write Testcases in TestRail and run test cycles.
+✓ Identify bugs and Report in JIRA, follow up through resolution and verify issues are resolved.
+✓ Collaboration with PM and UI/UX for understanding proper user stories and acceptance criteria.
+✓ Perform testing complex web applications and Restful APIs, Mobile App.
+✓ Load testing using JMeter, monitor Crashlytics.
 
-### QA Software QA Engineer
-**CelfiTech | Feb 2021 - Mar 2022**
+### Software QA Engineer
+**Developer Experience Hub | July 2021 - Aug 2022**
 - Led the QA team through multiple software releases, achieving a 95% defect detection rate before production.
 - Created comprehensive test plans and test cases for new features, ensuring thorough coverage and adherence to specifications.
 - Coordinated with cross-functional teams to streamline testing processes and enhance communication, resulting in faster issue resolution.
 - Utilized various testing tools and methodologies to perform functional, regression, and acceptance testing.
 - Documented and reported bugs and issues, working closely with developers to ensure timely fixes and improvements.
 
-### Industrial Internship
-**Frostcherry IT & Software Solutions | January 2020 to March 2020**
-- Developed a website as part of an industrial internship, using PHP, Laravel, HTML, CSS, Bootstrap, and MySQL databases.
-- Gained practical experience in full-stack web development, from front-end design to back-end database management.
-- Assisted in debugging and troubleshooting code, contributing to the overall project success.
-- Learned best practices in software development and project management, applying them to real-world scenarios.
----
-
-### 🌟 Key Projects
-
-1. **Automation Testing Framework**
-   - **Technologies**: Selenium, TestNG, Jenkins
-   - **Description**: Developed a comprehensive automated testing suite to streamline regression testing, reducing testing time by 60% and ensuring consistent product quality.
-
-2. **API Testing Framework**
-   - **Technologies**: Postman, Newman, Jenkins
-   - **Description**: Created a robust API testing framework using Postman and Newman, integrated with Jenkins for automated nightly builds, enhancing the API reliability and performance.
-
-3. **Continuous Integration Pipeline**
-   - **Technologies**: Jenkins, Docker, GitLab CI
-   - **Description**: Implemented a CI pipeline for a microservices architecture, enabling continuous deployment and rapid feedback loops, which improved the development team's productivity by 40%.
-
----
-
-### 📈 GitHub Stats
-
-![MdSikder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSikder&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSikder&layout=compact&theme=radical)
-
 ---
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-sikder/)
-- 🌐 [Personal Website](https://poraginsights.blogspot.com/)
-- ✉️ [Email](rased.sikder@klovercloud.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-bashir-ahmed/)
+- 🌐 [Personal Website]()
+- ✉️ [Email](md.bashir.ahmed417@gmail.com)
 
 ---
 
@@ -139,36 +108,12 @@ With over 2.5 years of experience in Software Quality Assurance, I specialize in
 
 ### 🎓 Certifications
 
-
-### Selenium WebDriver with Java
-- **Duration**: 3 hours 37 minutes (May 2024)
-- **Provider**: Test Automation University
-- **Description**: Completed a course in Selenium WebDriver with Java, gaining expertise in automating web browser interactions for software testing. This enhances skills in streamlining the testing process and improving software quality.
-- **Certificate**: [View Certificate](https://us-central1-testautomationu-9e0b6.cloudfunctions.net/app/sharable/4f74a3e7)
-
-2. **SQA and Cyber Security**
-   - **Duration**: June 2022 to August 2022
+ **SQA and Cyber Security**
+   - **Duration**: June 2021 to August 2021
    - **Provider**: IT Training BD
    - **Description**: Completed a comprehensive course covering Software Quality Assurance and Cyber Security, enhancing skills in ensuring software reliability and security.
-
-2. **iOS App Development**
-   - **Duration**: March 2019 to June 2019
-   - **Provider**: Riseup Labs, Dhaka, Bangladesh
-   - **Description**: Acquired proficiency in iOS app development through hands-on training, enabling the creation of high-quality mobile applications for the iOS platform.
-
-### 🏆 Awards and Achievements
-
-- **6th Place in Short Film Competition 2016**
-  - **Event:** Chhayanaut, Bangladesh
-  - **Description:** Secured 6th place in a prestigious short film competition organized by Chhayanaut, Bangladesh. The film titled "UNTOLD" focused on addressing the issue of ragging, contributing to awareness and advocacy against the practice.
-  - **Position:** Assistant Director
-  - **Film Source:** [UNTOLD - Bangladeshi anti-ragging short film](source_link)
-  - **Organization:** BSMRSTU Short Film
 
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just have a chat about all things QA! 😄
 
----
-
-![Visitors](https://komarev.com/ghpvc/?username=MdSikder&color=blue)
