@@ -35,7 +35,6 @@ With over 3 years of experience in Software Quality Assurance, I specialize in a
 
 #### Performance Testing Tools: 
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
-![Locust](https://img.shields.io/badge/-Locust-0DBA3E?style=flat&logo=locust&logoColor=white)
 
 #### Security Testing Tools: 
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
@@ -48,10 +47,6 @@ With over 3 years of experience in Software Quality Assurance, I specialize in a
 ![TDD](https://img.shields.io/badge/-TDD-00A99D?style=flat&logo=tdd&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-5A009D?style=flat&logo=oop&logoColor=white)
 
-#### CI/CD & DevOps: 
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 #### Project Management & Collaboration: 
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
