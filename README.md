@@ -62,12 +62,12 @@ With over 3 years of experience in Software Quality Assurance, I specialize in a
 
 ### Software QA Engineer
 **Staff Asia Limited | Sep 2022 to Present**
-✓ Review and analyze requirements, specifications Providing timely feedback.
-✓ Develop detailed, well-structured Test plan, write Testcases in TestRail and run test cycles.
-✓ Identify bugs and Report in JIRA, follow up through resolution and verify issues are resolved.
-✓ Collaboration with PM and UI/UX for understanding proper user stories and acceptance criteria.
-✓ Perform testing complex web applications and Restful APIs, Mobile App.
-✓ Load testing using JMeter, monitor Crashlytics.
+- Review and analyze requirements, specifications Providing timely feedback.
+- Develop detailed, well-structured Test plan, write Testcases in TestRail and run test cycles.
+- Identify bugs and Report in JIRA, follow up through resolution and verify issues are resolved.
+- Collaboration with PM and UI/UX for understanding proper user stories and acceptance criteria.
+- Perform testing complex web applications and Restful APIs, Mobile App.
+- Load testing using JMeter, monitor Crashlytics.
 
 ### Software QA Engineer
 **Developer Experience Hub | July 2021 - Aug 2022**
